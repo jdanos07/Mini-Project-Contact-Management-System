@@ -1,6 +1,9 @@
+Open the "User Interaction" folder and run the 'Menu.Py" to initiate the program.
+
 User Interface (UI):
 
 Welcome to the Contact Management System! 
+
 Menu:
 1. Add a new contact
 2. Edit an existing contact
